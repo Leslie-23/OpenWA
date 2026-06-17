@@ -12,6 +12,7 @@ import {
   useUpdateTemplateMutation,
 } from '../hooks/queries';
 import { PageHeader } from '../components/PageHeader';
+import { copyToClipboard } from '../utils/clipboard';
 import './Templates.css';
 
 type TemplateForm = {
@@ -157,8 +158,9 @@ export function Templates() {
   };
 
   const copyName = async (name: string) => {
-    await navigator.clipboard.writeText(name);
-    setToast({ type: 'success', message: t('templates.toasts.copied') });
+    if (await copyToClipboard(name)) {
+      setToast({ type: 'success', message: t('templates.toasts.copied') });
+    }
   };
 
   if (loadingSessions) {
