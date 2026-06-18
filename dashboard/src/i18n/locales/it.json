@@ -53,7 +53,10 @@
     "light": "Chiaro",
     "dark": "Scuro",
     "system": "Sistema",
-    "label": "Tema: {{value}}"
+    "label": "Tema: {{value}}",
+    "appearance": "Appearance",
+    "mode": "Mode",
+    "palette": "Palette"
   },
   "nav": {
     "dashboard": "Dashboard",

@@ -53,7 +53,10 @@
     "light": "浅色",
     "dark": "深色",
     "system": "跟随系统",
-    "label": "主题：{{value}}"
+    "label": "主题：{{value}}",
+    "appearance": "Appearance",
+    "mode": "Mode",
+    "palette": "Palette"
   },
   "nav": {
     "dashboard": "仪表盘",

@@ -53,7 +53,10 @@
     "light": "בהיר",
     "dark": "כהה",
     "system": "מערכת",
-    "label": "ערכת נושא: {{value}}"
+    "label": "ערכת נושא: {{value}}",
+    "appearance": "Appearance",
+    "mode": "Mode",
+    "palette": "Palette"
   },
   "nav": {
     "dashboard": "דאשבורד",

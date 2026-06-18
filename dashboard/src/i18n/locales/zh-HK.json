@@ -53,7 +53,10 @@
     "light": "淺色",
     "dark": "深色",
     "system": "跟隨系統",
-    "label": "主題：{{value}}"
+    "label": "主題：{{value}}",
+    "appearance": "Appearance",
+    "mode": "Mode",
+    "palette": "Palette"
   },
   "nav": {
     "dashboard": "控制面板",
