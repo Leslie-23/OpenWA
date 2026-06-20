@@ -54,9 +54,9 @@
     "dark": "כהה",
     "system": "מערכת",
     "label": "ערכת נושא: {{value}}",
-    "appearance": "Appearance",
-    "mode": "Mode",
-    "palette": "Palette"
+    "appearance": "מראה",
+    "mode": "מצב",
+    "palette": "לוח צבעים"
   },
   "nav": {
     "dashboard": "דאשבורד",

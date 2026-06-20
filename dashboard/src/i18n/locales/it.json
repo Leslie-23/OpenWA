@@ -54,9 +54,9 @@
     "dark": "Scuro",
     "system": "Sistema",
     "label": "Tema: {{value}}",
-    "appearance": "Appearance",
-    "mode": "Mode",
-    "palette": "Palette"
+    "appearance": "Aspetto",
+    "mode": "Modalità",
+    "palette": "Tavolozza"
   },
   "nav": {
     "dashboard": "Dashboard",

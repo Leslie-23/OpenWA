@@ -54,7 +54,7 @@
     "dark": "Sombre",
     "system": "Système",
     "label": "Thème : {{value}}",
-    "appearance": "Appearance",
+    "appearance": "Apparence",
     "mode": "Mode",
     "palette": "Palette"
   },
